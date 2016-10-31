@@ -13,6 +13,7 @@ Get rid of all this text
 ```{r cars}
 x = rnorm(mean=30, n=50)
 summary(x)
+plot(x)
 ```
 
 ## Including Plots
